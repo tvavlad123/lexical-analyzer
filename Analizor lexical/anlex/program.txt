@@ -1,0 +1,10 @@
+public static void main(String[] args) {
+	double sum = 0;
+	Scanner in = new Scanner(System.in);
+	int n = in.nextInt();
+    for (int index = 0; index < n; index = index + 1) {
+        double number = in.nextDouble();
+        sum = number + sum;
+    }
+    System.out.println(sum);
+}

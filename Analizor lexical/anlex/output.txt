@@ -1,0 +1,12 @@
+IDENTIFICATORI SI CONSTANTE 
+ID          |          Pozitie 
+0          |          1
+1          |          2
+args          |          3
+in          |          4
+index          |          5
+n          |          6
+new          |          7
+number          |          8
+out          |          9
+sum          |          10
